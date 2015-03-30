@@ -1,3 +1,1 @@
-my dog is sleeping
-but is now chewing a bone
-and the third line for the first file
+deleted the three lines and added this one
